@@ -3,12 +3,11 @@
   margin-top: 70px;
 }
 .input{
-  padding:15px;
-  margin:15px;
-  border: 1px solid #1c1616;
-  border-radius: 4px;
-  display: 'inline-block';
-  margin-right: '10px';
+    border: 1px solid #1c1616;
+    border-radius: 4px;
+    display: "inline-block";
+    margin: 10px;
+    padding: 11px
 }
 .submit{
   margin-top: 20px;
